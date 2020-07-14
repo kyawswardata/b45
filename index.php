@@ -45,7 +45,7 @@
                           <i class="fa fa-star" aria-hidden="true"></i>
                           <i class="fa fa-star" aria-hidden="true"></i>
                         </div>
-                        <a href="#" class="btn btn-primary pull-right fstyle mt-2">
+                        <a href="detail.php" class="btn btn-primary pull-right fstyle mt-2">
                             View Detail
                         </a>
                       </div>
@@ -65,7 +65,7 @@
                           <i class="fa fa-star" aria-hidden="true"></i>
                           <i class="fa fa-star" aria-hidden="true"></i>
                         </div>
-                        <a href="#" class="btn btn-primary pull-right fstyle mt-2">
+                        <a href="detail.php" class="btn btn-primary pull-right fstyle mt-2">
                             View Detail
                         </a>
                       </div>
@@ -85,7 +85,7 @@
                           <i class="fa fa-star" aria-hidden="true"></i>
                           <i class="fa fa-star" aria-hidden="true"></i>
                         </div>
-                        <a href="#" class="btn btn-primary pull-right fstyle mt-2">
+                        <a href="detail.php" class="btn btn-primary pull-right fstyle mt-2">
                             View Detail
                         </a>
                       </div>
