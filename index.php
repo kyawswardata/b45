@@ -96,16 +96,5 @@
         </div>
     </div>
 </div>
-<section class="bg-dark">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-8 py-5 text-white">
-                Copyright 2020.All right reserved.
-            </div>
-            <div class="col-md-4 py-5 text-right text-white">
-            <i class="fab fa-facebook-square"></i>
-            </div>
-        </div>
-    </div>
-</section>
+
 <?php require "footer.php";?>
